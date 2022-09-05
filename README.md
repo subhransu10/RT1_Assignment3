@@ -151,10 +151,11 @@ def callback_done(state, result):
 		print("LOST")
 		return	
 ```
-__Simulation Video__
 
-https://user-images.githubusercontent.com/93926797/188441911-7e09226b-c552-4212-ad69-0b5fad98d63a.mp4
+You can view the simulation below.
 
+
+![Simulation_video (1)](https://user-images.githubusercontent.com/93926797/188445456-4ef9b621-0485-4f01-936d-8112092529a7.gif)
 
 
 
